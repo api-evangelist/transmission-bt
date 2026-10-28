@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Transmission is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://transmissionbt.com/
+Transmission is an open‑source BitTorrent client offering a fast, lightweight, and cross‑platform solution for downloading and sharing files. Available for macOS, Windows, and Linux, it provides a native user experience, a web interface, and features such as speed limits, encryption, and peer blocklists. The project is community‑driven, ad‑free, and respects user privacy.
+
+**Areas:** BitTorrent · OpenSource · CrossPlatform · FileSharing · Privacy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://transmissionbt.com/)
+- [Changelog](https://github.com/transmission/transmission/releases/)
+- [GitHub](https://github.com/transmission)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/transmission-bt/](https://apis.io/providers/transmission-bt/).
